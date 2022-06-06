@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NFC_Graph_App</string>
+
+    <string-array name="TypeOfParametersGraph">
+        <item>Temperature</item>
+        <item>Humidity</item>
+        <item>Pressure</item>
+        <item>MagnetometerX</item>
+        <item>MagnetometerY</item>
+        <item>MagnetometerZ</item>
+        <item>AccelerometerX</item>
+        <item>AccelerometerY</item>
+        <item>AccelerometerZ</item>
+        <item>GyroscopeX</item>
+        <item>GyroscopeY</item>
+        <item>GyroscopeZ</item>
+    </string-array>
+
+</resources>
